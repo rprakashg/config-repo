@@ -1,4 +1,7 @@
-######################
-## EPiServer Files
-######################
-*License.config
+#*
+*#
+.#*
+*~
+.idea
+*.iml
+.factorypath
