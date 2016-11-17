@@ -1,7 +1,7 @@
 aws:
   credentials:
-    keyId: ""
-    secret: ""
+    keyId: "{cipher}AQAUS0ZULHHVpR2YIMxNbOwiR7CuQumJYC0JVtgW1cEWuiPuXgDtiNLvcHgQErzOpHfCW09EobfYivAL/0t29g2mLG/QrCp6GVWhmSbOpx3oUpFVhUvgDs8PV+QjdS1wKMHYz1iqAT+LDh7L/zEdpY9UTdHhP5qja8qKNJhss+Aeho82yFSVH/K6J/iIIYSF53n9D75DzQa2DAaS5RYkgqGNwHBAVTCX1h8HIbuKX63c9a1p1hvoJIpTkS+5envkoRGdmgwFRpwyMSRc5Ye8MMuIcHn6TmItJ1dKUmCpDkNicSUK+ISLpJKbU5McrjFKADGLF5vCDayXAZmgrEd02QM9FoUUhW4W/h9gZqazmcWJ/2WZrmu7fg0BXY4wvhKVyWxbOEsNMlD177aRrT70PKX6"
+    secret: "{cipher}AQA7f1A7AEW2VUYG8X0yE/ISG8VMMtLxQlbzBOV7ArRPPXu/WI7r8PJ9bb7ZrPtNsNPokXjfYYFPLyJCtxBfsgGqWJee8K4SujgDnMan3ysDYVKufyp2+88BSU8y8qMYX7duVEprLG/GbQgNBfTb0DZgNz3BAyiXYy6bU22oLe2spTxoTguQm6/4zBzDzW+M/ivwhBUkrDGaDKq5+XVSkMvpmGaAv/7iY1WfNYgZ+yBpohIaUuV+6ddmbnxv4s2jHCM4srCsRkZknqbxysGgS5n5zXdRacNKq2oI4YqrNvwXjmAvfqCgDvn9u5iJI7GwD3DJ4KAPD1o5J97WEABw12R94vaz850KVgT0uWyn9g7ypMxfoustDrP5tBU2I7SY1PHDdqNSjkDhkLMiiLcuy5t4fPyYdR/Cmeaj9AYGoBZkaA=="
   dynamoDB:
     region: "us-west-2"
     table: "tablename"
