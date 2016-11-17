@@ -1,0 +1,11 @@
+aws:
+  credentials:
+    keyId: ""
+    secret: ""
+  dynamoDB:
+    region: "us-west-2"
+    table: "tablename"
+  s3:
+    region: "us-west-2"
+    bucket: "s3bucketname"
+    folder: "foldername"
